@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"battlerName":"Main01","characterIndex":0,"characterName":"Main01","classId":1,"equips":[2,0,0,3,0],"faceIndex":0,"faceName":"Main01","traits":[],"initialLevel":1,"maxLevel":99,"name":"Sanya","nickname":"Sanya Hiraya","note":"","profile":""},
+{"id":2,"battlerName":"Side02","characterIndex":0,"characterName":"Side02","classId":1,"equips":[0,0,0,9,0],"faceIndex":0,"faceName":"Side02","traits":[],"initialLevel":1,"maxLevel":99,"name":"Ias","nickname":"Ias","note":"","profile":""},
+{"id":3,"battlerName":"FRIEND_A01","characterIndex":0,"characterName":"FRIEND_A01","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"FRIEND_A01","traits":[],"initialLevel":1,"maxLevel":99,"name":"Amelia","nickname":"Amelia","note":"","profile":""},
+{"id":4,"battlerName":"Prof02","characterIndex":0,"characterName":"Prof02","classId":3,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Prof02","traits":[],"initialLevel":1,"maxLevel":99,"name":"Professor","nickname":"Professor","note":"","profile":""},
+{"id":5,"battlerName":"DRKAT","characterIndex":0,"characterName":"DRKAT","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"DRKAT","traits":[],"initialLevel":1,"maxLevel":99,"name":"Dr. Kat","nickname":"Dr. Kat","note":"","profile":""}
+]
